@@ -12,7 +12,7 @@ get_header();
 $videohead = '
             <div class="v-header">
             <div class="fullscreen-video-wrap">
-              <video src="vape2.mov" type="video/mov" frameborder="0" allowfullscreen autoplay loop muted>
+              <video src="vape2.mp4" type="video/mp4" frameborder="0" allowfullscreen autoplay loop muted>
             </video>
             </div>
             <div class="header-overlay" id="particles-js"></div>
